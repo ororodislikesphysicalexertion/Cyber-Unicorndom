@@ -7,6 +7,15 @@ Hi! First and foremost, I should warn you that the title is deceiving. At the mo
 ### The Couple Inside Me
 The blues and sunshine churn and meddle together inside me. They are like yin and yang, together they create harmony but too much of one is overpowering and out of my control. Together, they make me a sad, lonesome soul but filled with love, appreciation and serenity. There is so much beauty in the ugly, and so much ugly in the beauty. Nonetheless, there is so much beauty everywhere-- some things are just not traditionally beautiful. Such things include the gentle touch of foreign skin, a rude whisper snapping the silence in your heart, and the uncomfortable wetness of your cheeks when you cry. A good weep is quite stabilizing. Those little puddles are only salty because they are the product of a mind in despair, but lick them again and you will notice that they taste sweet-- that happens when you seek the comfort of the beauty in ugly.
 
+## Projects
+
+* [Botball bots (2019-2020)](https://github.com/ororodislikesphysicalexertion/thermonuclear-unicorns)
+* Future Aspirations/Big Projects:
+  * Build Blockchain / my own cryptocurrency
+  * Build AI pets
+* Itty Bitty Projects:
+  * EEA (Extended Euclidean Algorithm) generator
+  * Lil games I haven't made yet
 
 ## Monster Battles
 
