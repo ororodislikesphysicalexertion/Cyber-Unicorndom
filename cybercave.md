@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My *Magical* Cybercave!
 
-Hello! You can use the [editor on GitHub](https://github.com/ororodislikesphysicalexertion/Cyber-Unicorndom/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! First and foremost, I should warn you that the title is deceiving. At the moment, this is just a place to share some of my emotional bullcrap or things I've learned along the way, but as I seemingly progress as an individual, I may also talk about my projects or ideas. Anyways, enjoy (if you can)!
 
 ### Markdown
 
