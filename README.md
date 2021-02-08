@@ -1,2 +1,2 @@
-# Cyber-Unicorndom
-Here's my little poggy bloggy
+# Cyber Unicorndom
+My little poggy bloggy
